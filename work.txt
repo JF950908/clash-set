@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,hp.com
+  - DOMAIN-SUFFIX,zscalerthree.net
+  - DOMAIN,sha1.sme.zscalerthree.net
+  - DOMAIN-KEYWORD,hp
+  - DOMAIN-KEYWORD,aws
+  - DOMAIN-KEYWORD,amazon
+  - DOMAIN-SUFFIX,pingone.com
+  - DOMAIN-SUFFIX,amazonaws.cn
+  - DOMAIN-SUFFIX,amazon.com
